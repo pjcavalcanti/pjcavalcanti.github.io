@@ -1,6 +1,20 @@
 title: Paulo Cavalcanti
 logo: /assets/img/paulo.png
-description: Paulo's webpage
+description: Portifolio
 #show_downloads: true
 #google_analytics:
 theme: jekyll-theme-minimal
+
+# Social Media Links
+social_links:
+  github: "https://github.com/pjcavalcanti"
+  google_scholar: "https://scholar.google.com/citations?user=fVK_IwUAAAAJ"
+  leetcode: "https://leetcode.com/pjcavalcanti"
+  twitter: "https://twitter.com/pcavf"
+
+# Icons
+icon_paths:
+  github: "./assets/icons/github.png"
+  google_scholar: "./assets/icons/google-scholar.png"
+  leetcode: "./assets/icons/leetcode.png"
+  twitter: "./assets/icons/x.png"
