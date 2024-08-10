@@ -24,7 +24,7 @@ toc: true
 
 - [tocha](https://github.com/pjcavalcanti/tocha): #python, #machine_learning, #numpy
 - [SimplexEmbeddingGPT](https://github.com/pjcavalcanti/SimplexEmbeddingGPT): #python, #quantum_contextuality
-- [WitnessInformation](https://github.com/pjcavalcanti/WitnessInformation): #python, #information_theory, #quantum_entanglement
+- [WitnessInformation](https://github.com/pjcavalcanti/WitnessInformation): #c++, #python, #information_theory, #quantum_entanglement
 
 ### Publications
 
