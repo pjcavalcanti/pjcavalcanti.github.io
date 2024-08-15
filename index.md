@@ -14,7 +14,7 @@ toc: true
 
 ### Programming Languages
 
-- Python, C/C++, Dart, Java
+- Python, C/C++, Dart, Java, HTML, CSS, JavaScript
 
 ### Tools
 
@@ -25,6 +25,7 @@ toc: true
 - [tocha](https://github.com/pjcavalcanti/tocha): #python, #machine_learning, #numpy
 - [SimplexEmbeddingGPT](https://github.com/pjcavalcanti/SimplexEmbeddingGPT): #python, #quantum_contextuality
 - [WitnessInformation](https://github.com/pjcavalcanti/WitnessInformation): #c++, #python, #information_theory, #quantum_entanglement
+- [tictactoe_web](https://github.com/pjcavalcanti/tictactoe_web): #JavaScript, #CSS, #HTML, #interactive
 
 ### Publications
 
