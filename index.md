@@ -14,18 +14,19 @@ toc: true
 
 ### Programming Languages
 
-- Python, C/C++, Dart, Java, HTML, CSS, JavaScript
+- Python, C/C++, HTML, CSS, JavaScript, SQL, Dart, Java
 
 ### Tools
 
-- Git, LaTeX, Algorithms, Data Structures
+- Node.js, Express.js, EJS, MySQL, Git, LaTeX, Algorithms, Data Structures
 
 ### Projects
 
 - [tocha](https://github.com/pjcavalcanti/tocha): #python, #machine_learning, #numpy
 - [SimplexEmbeddingGPT](https://github.com/pjcavalcanti/SimplexEmbeddingGPT): #python, #quantum_contextuality
-- [WitnessInformation](https://github.com/pjcavalcanti/WitnessInformation): #c++, #python, #information_theory, #quantum_entanglement
-- [tictactoe_web](https://github.com/pjcavalcanti/tictactoe_web): #JavaScript, #CSS, #HTML, #interactive
+- [WitnessInformation](https://github.com/pjcavalcanti/WitnessInformation): #C++, #python, #information_theory, #quantum_entanglement
+- [todo_browser](https://github.com/pjcavalcanti/todo_browser): #Node.js, #MySQL, #EJS, #Javascript, #CSS, #HTML, #fullstack, #interactive, #server
+- [tictactoe_browser](https://github.com/pjcavalcanti/tictactoe_browser): #JavaScript, #CSS, #HTML, #interactive
 
 ### Publications
 
