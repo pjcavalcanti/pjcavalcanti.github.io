@@ -14,7 +14,7 @@ toc: true
 
 ### Programming Languages
 
-- Python, C/C++, HTML, CSS, JavaScript, SQL, Dart, Java
+- Python, C/C++, Javascript, CSS, HTML, SQL, Dart, Java
 
 ### Tools
 
