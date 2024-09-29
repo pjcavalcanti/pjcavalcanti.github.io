@@ -8,7 +8,7 @@ toc: true
 
 ### Technical Certificates
 
-* [Data Engineer Associate](https://www.datacamp.com/certificate/DEA0013522191609) - Datacamp
+* [**Data Engineer Associate**](https://www.datacamp.com/certificate/DEA0013522191609) - Datacamp
 
 ### Education
 
@@ -26,10 +26,10 @@ toc: true
 
 ### Projects
 
-* [Monte Carlo Simulation for Quantum Information](https://github.com/pjcavalcanti/WitnessInformation): Developed and implemented an algorithm to numerically estimate the information content about entanglement that is provided by the method of entanglement witnesses in quantum information.
-* [Python implementation of a quantum contextuality algorithm](https://github.com/pjcavalcanti/SimplexEmbeddingGPT): Produced a python implementation of an algorithm from quantum contextuality that is aproximately 60x faster and simpler to use than the its original Matlab implementation.
-* [Deep learning building blocks and autograd in NumPy](https://github.com/pjcavalcanti/tocha): A NumPy implementation of many important machine learning elements including Adam and SGD optimizers, convolutional and linear layers, dropout, batch and layer normalization, RNNs, LSTMs and transformers. Done for educational purposes.
-* [Web Development elements](https://github.com/pjcavalcanti/): Simple implementations of toy projects such as [a blog](https://github.com/pjcavalcanti/blog), a [todo list](https://github.com/pjcavalcanti/todo_browser) and [pure css tictactoe game](https://github.com/pjcavalcanti/tictactoe_browser).
+* [**Monte Carlo Simulation for Quantum Information**](https://github.com/pjcavalcanti/WitnessInformation): Developed and implemented an algorithm to numerically estimate the information content about entanglement that is provided by the method of entanglement witnesses in quantum information.
+* [**Python implementation of a quantum contextuality algorithm**](https://github.com/pjcavalcanti/SimplexEmbeddingGPT): Produced a python implementation of an algorithm from quantum contextuality that is aproximately 60x faster and simpler to use than the its original Matlab implementation.
+* [**Deep learning building blocks and autograd in NumPy**](https://github.com/pjcavalcanti/tocha): A NumPy implementation of many important machine learning elements including Adam and SGD optimizers, convolutional and linear layers, dropout, batch and layer normalization, RNNs, LSTMs and transformers. Done for educational purposes.
+* [**Web Development elements**](https://github.com/pjcavalcanti/): Simple implementations of toy projects such as [a blog](https://github.com/pjcavalcanti/blog), a [todo list](https://github.com/pjcavalcanti/todo_browser) and [pure css tictactoe game](https://github.com/pjcavalcanti/tictactoe_browser).
 
 ### Publications
 
