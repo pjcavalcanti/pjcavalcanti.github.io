@@ -6,6 +6,10 @@ toc: true
 
 ## Technical Skills and Experience
 
+### Technical Certificates
+
+* [Data Engineer Associate](https://www.datacamp.com/certificate/DEA0013522191609) - Datacamp
+
 ### Education
 
 * **BSc** - Physics, Federal University of Pernambuco
@@ -22,12 +26,10 @@ toc: true
 
 ### Projects
 
-- [tocha](https://github.com/pjcavalcanti/tocha): #python, #machine_learning, #numpy
-- [blog](https://github.com/pjcavalcanti/blog): #Node.js, #MongoDB, #authentication, #EJS, #Javascript, #CSS, #HTML, #NoSQL, #fullstack, #interactive, #server
-- [todo_browser](https://github.com/pjcavalcanti/todo_browser): #Node.js, #MySQL, #EJS, #Javascript, #CSS, #HTML, #NoSQL, #fullstack, #interactive, #server
-- [SimplexEmbeddingGPT](https://github.com/pjcavalcanti/SimplexEmbeddingGPT): #python, #quantum_contextuality
-- [WitnessInformation](https://github.com/pjcavalcanti/WitnessInformation): #C++, #python, #information_theory, #quantum_entanglement
-- [tictactoe_browser](https://github.com/pjcavalcanti/tictactoe_browser): #JavaScript, #CSS, #HTML, #interactive
+- [Monte Carlo Simulation for Quantum Information](https://github.com/pjcavalcanti/WitnessInformation): Developed and implemented an algorithm to numerically estimate the information content about entanglement that is provided by the method of entanglement witnesses in quantum information.
+- [Python implementation of a quantum contextuality algorithm](https://github.com/pjcavalcanti/SimplexEmbeddingGPT): Produced a python implementation of an algorithm from quantum contextuality that is aproximately 60x faster and simpler to use than the its original Matlab implementation.
+- [Deep learning building blocks and autograd in NumPy](https://github.com/pjcavalcanti/tocha): A NumPy implementation of many important machine learning elements including Adam and SGD optimizers, convolutional and linear layers, dropout, batch and layer normalization, RNNs, LSTMs and transformers. Done for educational purposes.
+- [Web Development elements]: Simple implementations of toy projects such as [a blog](https://github.com/pjcavalcanti/blog), a [todo list](https://github.com/pjcavalcanti/todo_browser) and [pure css tictactoe game](https://github.com/pjcavalcanti/tictactoe_browser).
 
 ### Publications
 
